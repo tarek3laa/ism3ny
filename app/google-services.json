@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "661847703968",
+    "firebase_url": "https://ism3ny.firebaseio.com",
+    "project_id": "ism3ny",
+    "storage_bucket": "ism3ny.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661847703968:android:78f80584e36f3d5f",
+        "android_client_info": {
+          "package_name": "com.example.ism3ny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661847703968-mkju3h27klte97crrrcjdv52aht61f9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrybcecmaYDK3RYHevV9p9yacgOcU21DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661847703968-mkju3h27klte97crrrcjdv52aht61f9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
